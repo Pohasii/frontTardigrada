@@ -5,3 +5,7 @@
 # git checkout dev
 
 # git pull origin dev
+
+#  npm i
+
+happiness
