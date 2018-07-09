@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es2017"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es5",
+    "strict": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "importHelpers": true,
+    "rootDir": ".",
+    "typeRoots": ["node_modules/@types", "src/typings"],
+    "baseUrl": ".",
+    "paths": {
+      "@app/*": ["src/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "bin",
+    "build",
+    "config",
+    "dist",
+    "env",
+    "static",
+    "test"
+  ]
+}
