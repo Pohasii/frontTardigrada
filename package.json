@@ -56,6 +56,6 @@
   },
   "homepage": "https://github.com/dementr/front-ompare#readme",
   "dependencies": {
-    "create-react-app": "^1.5.2"
+    "vue": "^2.5.16"
   }
 }
