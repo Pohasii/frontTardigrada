@@ -1,4 +1,4 @@
-# git clone https://github.com/dementr/front-ompare.git
+# git clone https://github.com/dementr/frontTardigrada
 
 # git branch dev
 
