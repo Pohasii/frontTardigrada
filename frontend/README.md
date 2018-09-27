@@ -4,12 +4,7 @@
 
 ## Build Setup
 
-cd this project
-
 ``` bash
-# open console 
-cd frontend
-
 # install dependencies
 npm install
 
@@ -33,5 +28,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-happiness
